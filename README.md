@@ -4,7 +4,8 @@
 
 + 可变隐藏层 BackPropagation_include_math.ipynb
 + 简单实现 BackPropagation_simple_implement.ipynb
-+ 数学推导 MathBP.ipynb
++ 数学推导 MathBP.ipynb
++ 数学推导 MathBP.pdf
 
 ## 拟合函数效果展示
 
