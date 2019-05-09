@@ -19,4 +19,6 @@
 
 ### 数学推导
 
+
+下面图片为截图，完整版见MathBP.pdf
 ![math](source/math.png)
